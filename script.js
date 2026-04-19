@@ -99,4 +99,4 @@ startTyping(messageEN);
 
 /* 🎵 démarre musique dès premier clic n'importe où */
 document.addEventListener("click", startMusic, { once: true });
-document.addEventListener("touchstart", startMusic, { once: true });        
+document.addEventListener("touchstart", startMusic, { once: true });
